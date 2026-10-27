@@ -1,0 +1,7 @@
+openai          # SDK used with Gemini's OpenAI-compatible endpoint
+python-dotenv   # loads GEMINI_API_KEY from .env
+pypdf           # reads me/about_business.pdf
+gradio          # chat UI (gr.ChatInterface)
+fpdf2           # generates the PDF in make_pdf.py
+ipykernel       # lets the notebook run on this venv
+ipywidgets      # silences the "IProgress not found" warning in notebooks

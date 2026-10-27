@@ -1,0 +1,13 @@
+Byte Buddies - Business Summary
+
+Byte Buddies is a weekend coding and robotics school for kids aged 8 to 14, based in Hamra, Beirut. Our mission is to help kids become confident creators with technology, not just users of it. Every class is hands-on and project-based: kids write real code, build real robots, and leave each term with something they made themselves.
+
+We run three programs, grouped by age. Byte Starters (ages 8-10) introduces coding with Scratch and simple robotics with LEGO SPIKE kits. Byte Builders (ages 11-12) moves on to Python basics and electronics with micro:bit boards and sensors. Byte Makers (ages 13-14) works on bigger Python projects, simple game development, and competition-style robotics challenges. No prior experience is needed for any program, and every new student can book one free trial class before enrolling.
+
+Byte Buddies was founded in 2023 by Lina Haddad, a computer engineer who spent six years as a software developer, and Karim Mansour, a physics teacher and FIRST LEGO League coach. Our instructors are university engineering and computer science students trained by Lina and Karim, and every class has at most 8 kids per instructor.
+
+What makes us different: small groups, all equipment provided (laptops, robot kits, and electronics stay at the studio), a written progress note for parents at mid-term and end of term, and a Demo Day at the end of every term where kids present their projects to families.
+
+Practical details: Classes run on Saturdays and Sundays only. Each class is 2 hours, in one of three time slots: 9:30-11:30, 12:30-14:30, or 15:00-17:00. Our studio is on the 2nd floor of Cedar House, Bliss Street, Hamra, Beirut. The front desk is open Fridays 14:00-18:00 and weekends 9:00-17:00. Contact: hello@bytebuddies.lb.
+
+Pricing works per term. A term is 10 weekly 2-hour classes. Byte Starters costs $180 per term, Byte Builders $200 per term, and Byte Makers $220 per term, with all equipment included. There is a one-time registration fee of $20 for new students. Payment is made in full at registration, by cash or bank transfer.
